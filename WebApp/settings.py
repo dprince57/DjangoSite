@@ -120,3 +120,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+# Redirect URL
+
+LOGIN_REDIRECT_URL = '/HAWC'
